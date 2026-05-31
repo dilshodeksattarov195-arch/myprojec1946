@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "productvncrypt",
+        "uuid": 7620536,
+        "checksum": "kooc6"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": false,
+        "mode": "debug"
+    }
+}
